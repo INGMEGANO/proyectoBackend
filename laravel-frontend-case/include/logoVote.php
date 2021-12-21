@@ -1,0 +1,1 @@
+<img class="mx-auto d-block img-responsive" style="margin-bottom:-9%" src="../images/logoVotacion.png" alt="">
